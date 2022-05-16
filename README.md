@@ -1,7 +1,7 @@
 # Python for Finance
 Teaching Python to Finance Professionals
 
-Funamentals from _Automate the Boring Stuff _
+Fundamentals from _Automate the Boring Stuff_
 
 TOC
 
