@@ -31,7 +31,7 @@ Finance is a fast moving industry, and those who are looking to save time and ad
 
 This course aims to teach you the fundamentals of Python in a learn-by-doing approach. We walkthrough Al Sweigart's _Automate the Boring Stuff in Python_ to introduce concepts like data structures, if-statements, loops, lists, libraries, and more. The pacing of these first few chapters are meant to reinforce learning with spaced repetition and active recall via Anki.
 
-By the end of this course you will be preparing files before even openining an Excel sheet, automating tedious reports, and have a firm understanding of how you can use Python to speed up your workflow.
+By the end of this course you will be preparing files before even opening an Excel sheet, automating tedious reports, and have a firm understanding of how you can use Python to speed up your workflow.
 
 ## Optimizations:
 
