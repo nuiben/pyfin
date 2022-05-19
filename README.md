@@ -40,4 +40,4 @@ The first cohort of this class are a few Finance professionals who are eager to 
 
 ## Lessons Learned:
 
-Python is a deep language with a ton of functionality, while I was familiar with how to write basic programs, this program has taught me how robust and well established Python is as a language. Currently I am working with the Pandas DataFrame and NumPy to test the capstone project for this course.
+Python is a deep language with a ton of functionality, while I was familiar with how to write basic programs, designing this course has taught me how robust and well established Python is as a language. Currently I am working with Openpyxl, Pandas DataFrame and NumPy to test the capstone project for this course.
